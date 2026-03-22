@@ -21,7 +21,7 @@ int main() {
     }
  promedio = suma / 5;
 
-    cout << "\n--- RESULTADOS ---" << endl;
+    cout << "\n---- RESULTADOS ----" << endl;
     cout << "Suma total: " << suma << endl;
     cout << "Promedio: " << promedio << endl;
     cout << "Notas aprobadas: " << aprobadas << endl;
